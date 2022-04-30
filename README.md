@@ -2,7 +2,9 @@
 
 我的内核版本好是 5.0.0-32-generic，（亲测5.0.0-23-generic ~ 5.0.0-32-generic都没问题)
 
-
+```
+me--> 亲测 5.4 内核编译链接正常，wifi正常
+```
 
 需要关闭Secure Boot，根据不同的电脑，关闭Secure Boot的操作不同。
 
